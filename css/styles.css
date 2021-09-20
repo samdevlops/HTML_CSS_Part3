@@ -299,6 +299,7 @@ a {
   border: 0;
   flex-grow: 1;
   padding: 1.5rem 1rem;
+  width: 0;
 }
 
 .input-group .btn {
@@ -407,7 +408,7 @@ a {
 
 @media screen and (min-width: 1024px) {
   .plan__name {
-    font-size: 1.4;
+    font-size: 1.4rem;
   }
 
   .plan__price {
